@@ -64,3 +64,11 @@ body{
   padding:5px;
   border-radius:5px;
 }
+
+.hero{
+  background:red;
+  height:40vh;
+  max-width:100%;
+  margin:0 3rem;
+  margin-top:3px;
+}
