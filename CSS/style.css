@@ -22,6 +22,8 @@ body{
   color:#fff;
   justify-content:space-between;
   align-items:center;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
 }
 
 .logo h3{
@@ -75,6 +77,8 @@ body{
   justify-content:space-between;
   align-items:flex-end;
   padding:10px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
 }
 
 .hero .hero-text{
